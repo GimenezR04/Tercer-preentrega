@@ -1,4 +1,4 @@
-1-optimizacion de imgane
+1-optimizacion de imagenes
 
 2-Uso etiqueta meta, agregando : keywords, description.
 
