@@ -1,0 +1,6 @@
+1-optimizacion de imgane
+
+2-Uso etiqueta meta, agregando : keywords, description.
+
+3-control del los h1,h2,h3
+
