@@ -104,7 +104,9 @@ $font-family-t:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
     @extend .img-trabajos1;
 }
 .cont-titulo2{
-    @extend .cont-titulo;
+    display: inline;
+    margin-top: 170px;
+    margin-left: 30px;
 }
 .imagenes-trabajos3{
     display: flex;
@@ -114,7 +116,9 @@ $font-family-t:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
 }
 
 .cont-titulo3{
-    @extend .con-titulo;
+    display: inline;
+    margin-top: 170px;
+    margin-left: 30px;
 }
 .parrafo-french{
     font-family:$font-family-p;
@@ -145,6 +149,11 @@ $font-family-t:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
     border: $border;
     background-color:$back-color;
     margin-top: 30px;
+    
+}
+.icono{
+    color:black;
+    font-size: 25px;
 }
 
 /*Media trabajos*/

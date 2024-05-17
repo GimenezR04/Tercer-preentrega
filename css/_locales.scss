@@ -43,53 +43,36 @@ $font-family-t:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
 
     /*fin links*/
 
-/*Nosotros*/
+/*Locales*/
 
 
-.tmision{
-    text-align: center;
-    font-family: $font-family-t;
-    margin-top: 20px;
-    margin-bottom: 10px;
+.locales{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+    
 }
-.tvision{
-    @extend .tmision;
-    text-align: center;
-    margin-top: 20px;
-    margin-bottom: 10px;
-}
+.locales1{
+width: 50%;
 
-.tvalores{
-    @extend .tmision;
-    text-align: center;
-    margin-top: 20px;
-    margin-bottom: 10px;
 }
-.pmision{
-    text-align: justify;
-    font-family: $font-family-p;
-}
-.pvision{
-    text-align: justify;
-    font-family: $font-family-p;
-}
-.ulvalores{
-display: grid;
-grid-template-columns: repeat(1,1fr);
-grid-template-rows: repeat(5,1fr);
+.iframe{
+    width: 100%;
+    height: 450px;
 }
 
-/*Fin Nosotros*/
+/*Fin Locales*/
 
-   /*Footer*/
-
-
-   .footer1{
+.footer1{
     text-align: center;
     border: $border;
     background-color:$back-color;
     margin-top: 30px;
 }
 
-
-/*fin Footer*/
+.icono{
+    color:black;
+    font-size: 25px;
+}
