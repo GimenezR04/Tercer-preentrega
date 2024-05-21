@@ -328,7 +328,7 @@ h3 {
   display: flex;
 }
 
-.img-trabajos1, .img-trabajos3, .img-trabajos2 {
+.img-trabajos {
   width: 600px;
   height: 400px;
   border: 2px solid black;
@@ -343,21 +343,21 @@ h3 {
   margin-left: 30px;
 }
 
-.imagenes-trabajos2 {
+.imagenes-trabajos {
   display: flex;
 }
 
-.cont-titulo2 {
+.cont-titulo {
   display: inline;
   margin-top: 170px;
   margin-left: 30px;
 }
 
-.imagenes-trabajos3 {
+.imagenes-trabajos {
   display: flex;
 }
 
-.cont-titulo3 {
+.cont-titulo {
   display: inline;
   margin-top: 170px;
   margin-left: 30px;
